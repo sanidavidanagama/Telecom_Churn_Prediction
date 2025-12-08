@@ -11,3 +11,7 @@ Thumbs.db
 *.so
 *.dll
 *.dylib
+hyperband_tuning/
+keras_tuning/
+kt_tuning/
+kt_tuner/
